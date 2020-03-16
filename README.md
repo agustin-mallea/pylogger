@@ -2,7 +2,8 @@
 My first try to implement a keylogger for personal use using Python and pynput module
 
 # Requirements
-Python 2.7 or greater.
+Python 2.7 or greater
+
 pynput
 
 # Instructions for running (Ubuntu).
