@@ -20,9 +20,6 @@ def on_press(key):
     global line_buffer
     global capson
 
-    print(key)
-    print(to_ascii(key))
-
     if str(key).startswith("Key") or str(key).startswith("<") or to_ascii(key) < 33:
 
         if key == Key.caps_lock:
